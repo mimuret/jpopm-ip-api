@@ -1,7 +1,7 @@
 # IPアドレス管理業務の各種申請のAPI化の提案
 
 ## 提案内容
-IPアドレス管理業務における各種申請（https://www.nic.ad.jp/ja/ip/about-regist-admin.html）のうち下記申請のAPI化の提案
+[IPアドレス管理業務における各種申請](https://www.nic.ad.jp/ja/ip/about-regist-admin.html)のうち下記申請のAPI化の提案
 
 ### 松案
 - IPアドレス割り当て報告申請
