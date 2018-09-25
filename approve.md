@@ -1,4 +1,4 @@
-賛同される組織がございましたら、manabu-s(AT)iij.ad.jp宛にご連絡ください
+賛同される組織がございましたら、proposal-jpnic-api(AT)iij.ad.jp宛にご連絡ください
 
 フォーマット例
 ```
